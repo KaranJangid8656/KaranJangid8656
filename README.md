@@ -10,16 +10,6 @@
 - 📫  [karansuthar9565@gmail.com](mailto:karansuthar9565@gmail.com)
 - 📍 Bengaluru, India
 
-  <table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact" alt="karanjangid8656" />
-    </td>
-  </tr>
-</table>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -48,6 +38,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </div>
+<h3 align="center"></h3>
+<h5 align="center"></h5>
+  <table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact" alt="karanjangid8656" width="500" height="" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karan__suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan__suthar" height="30" width="40" /></a>
