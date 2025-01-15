@@ -40,8 +40,8 @@
 </div>
 
 <p align="center">
-  <img width="425" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
 </p>
 
 
