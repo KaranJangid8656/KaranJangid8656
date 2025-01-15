@@ -43,7 +43,7 @@
   <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact" alt="karanjangid8656" width="500" height="" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" width="500" height="" />
     </td>
   </tr>
 </table>
