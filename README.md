@@ -39,10 +39,11 @@
   </a>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
-  <img style="align-self: center;" width="475" height="350" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img style="align-self: center;" width="450" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
-</div>
+<p align="center">
+  <img width="425" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
