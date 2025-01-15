@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🚁, I'm Karan Suthar</h1>
+<h1 align="center">Hi , I'm Karan Suthar</h1>
 <h3 align="center">Data Science </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+ACC." alt="Typing SVG" />
@@ -38,18 +38,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </div>
-<h3 align="center"></h3>
-<h5 align="center"></h5>
-  <table>
-  <tr>
-    <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" width="500" height="" />
-    </td>
-  </tr>
-</table>
 
-
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
+  <img style="align-self: center;" width="475" height="350" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img style="align-self: center;" width="450" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
