@@ -10,7 +10,7 @@
 - 📫  [karansuthar9565@gmail.com](mailto:karansuthar9565@gmail.com)
 - 📍 Bengaluru, India
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -45,7 +45,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/karan__suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan__suthar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karansuthar9565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansuthar9565" height="30" width="40" /></a>
