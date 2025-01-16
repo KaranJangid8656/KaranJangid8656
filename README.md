@@ -38,6 +38,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </div>
+<br/>
+    <h2 align="center"> Current Stats </h2>
+  <br>
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
