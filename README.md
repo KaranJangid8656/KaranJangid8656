@@ -39,7 +39,7 @@
   </a>
 </div>
 <br/>
-    <h2 align="center"> Current Stats </h2>
+    <h3 align="center"> CURRENT STATS 💻</h3>
   <br>
 
 <p align="center">
