@@ -10,7 +10,7 @@
 - 📫  [karansuthar9565@gmail.com](mailto:karansuthar9565@gmail.com)
 - 📍 Bengaluru, India
 
-<h3 align="left">Languages and Tools: </h3>
+ <h3 align="left">Languages and Tools: </h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
