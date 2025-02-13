@@ -2,7 +2,7 @@
 <h3 align="center"> Data Science </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+ACC." alt="Typing SVG" />
-</p>
+</p> 
 
 - 🔭 I’m currently studying at **Atria Institute of Technology**    
 - 📖 I’m currently pursuing **Data Science**
