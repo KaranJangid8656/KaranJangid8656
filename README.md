@@ -8,7 +8,7 @@
 - 📖 I’m currently pursuing **Data Science**
 - 📞  [(+91) 8431770172](tel:8431770172)
 - 📫  [karansuthar9565@gmail.com](mailto:karansuthar9565@gmail.com)
-- 📍 Bengaluru, India
+- 📍 Bengaluru, India 
 
  <h3 align="left">Languages and Tools: </h3>
 
