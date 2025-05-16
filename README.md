@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+ACC." alt="Typing SVG" />
 </p> 
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding-left: 0;">
+<div align="center">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="400" />
+
+  <div align="left">
+    <ul style="list-style: none; padding-left: 0; margin-top: 0;">
       <li>- 🔭 I'm currently studying at <strong>Atria Institute of Technology</strong></li>
       <li>- 📖 I'm currently pursuing <strong>Data Science</strong></li>
       <li>- 🚀 Co-Founder of <strong><a href="https://script-verse-mu.vercel.app/">ScriptVerse</a></strong> - A Freelancing Service</li>
@@ -17,10 +19,9 @@
       <li>- 📍 Bengaluru, India</li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="350" />
-  </div>
 </div>
+
+<br clear="both">
 
  <h3 align="left">Languages and Tools: </h3>
 
