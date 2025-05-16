@@ -47,10 +47,10 @@
     <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"> 
-    <img src="https://images.seeklogo.com/logo-png/50/3/node-js-logo-png_seeklogo-501236.png" alt="nodejs" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> 
   </a>
 </div>
 <br/>
@@ -68,9 +68,21 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://twitter.com/karan__suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan__suthar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karansuthar9565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansuthar9565" height="30" width="40" /></a>
-<a href="https://instagram.com/karan_jangid98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_jangid98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karan_suthar8656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_suthar8656" height="30" width="40" /></a>
+  <a href="https://twitter.com/karan__suthar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan__suthar" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/karansuthar9565" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansuthar9565" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/karan_jangid98" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_jangid98" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/karan_suthar8656" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_suthar8656" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/1304444059342995536" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
+
 
