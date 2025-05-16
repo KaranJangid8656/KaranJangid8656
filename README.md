@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at **Atria Institute of Technology**    
 - 📖 I’m currently pursuing **Data Science**
-- 📞  [(+91) 8431770172](tel:8431770172)
+- 📞  [(+91) 8431770172](tel:8431770172) 
 - 📫  [karansuthar9565@gmail.com](mailto:karansuthar9565@gmail.com)
 - 📍 Bengaluru, India 
 
