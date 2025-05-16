@@ -43,11 +43,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener"> 
-    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"> 
-    <img src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" width="40" height="40"/> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
+    <img src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"> 
     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> 
@@ -58,8 +58,8 @@
   <br>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="readme stats" />
+  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
 </p>
 
 <p align="center">
