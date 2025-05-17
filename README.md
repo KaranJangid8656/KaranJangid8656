@@ -5,22 +5,10 @@
 </p> 
 
 <div align="center">
-  <div style="display: flex; justify-content: flex-end; gap: 15px;">
-    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRmNmo5YWtzcDY2dmdqN3Ewa200Y2Y0ZTR5amI5MnRmbTRqNzcyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="Data Science GIF" width="180" />
-    <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="300" />
-  </div>
-
-  <div align="left">
-    <ul style="list-style: none; padding-left: 0; margin-top: 0;">
-      <li>- 🔭 I'm currently studying at <strong>Atria Institute of Technology</strong></li>
-      <li>- 📖 I'm currently pursuing <strong>Data Science</strong></li>
-      <li>- 🚀 Co-Founder of <strong><a href="https://script-verse-mu.vercel.app/">ScriptVerse</a></strong> - A Freelancing Service</li>
-      <li>- 🌟 Active Open Source Contributor</li>
-      <li>- 🔒 Member of Cybersecurity Club at Atria Institute of Technology</li>
-      <li>- 📞 <a href="tel:8431770172">(+91) 8431770172</a></li>
-      <li>- 📫 <a href="mailto:karansuthar9565@gmail.com">karansuthar9565@gmail.com</a></li>
-      <li>- 📍 Bengaluru, India</li>
-    </ul>
+  <div style="display: flex; justify-content: space-between; gap: 15px;">
+    <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRmNmo5YWtzcDY2dmdqN3Ewa200Y2Y0ZTR5amI5MnRmbTRqNzcyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="Data Science GIF" width="220" />
+    <img src="https://media0.giphy.com/media/5EOYACH9SWWA45b4Bp/giphy.webp?cid=ecf05e471k26lj45liuyoud7otvhga4zqgaa7wtlr1aj73zn&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="AI GIF" width="220" />
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="220" />
   </div>
 </div>
 
