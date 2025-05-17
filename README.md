@@ -1,7 +1,6 @@
-<h1 align="center"> Hi ,I'm Karan Suthar</h1> 
-<h3 align="center"> Data Science | Co-Founder of ScriptVerse | Open Source Contributor</h3> 
+<h1 align="center"> Hey ,I'm Karan Suthar</h1> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB+ACC." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=MAKING+DATA+WORK+SMARTER" alt="Typing SVG" />
 </p> 
 
 <div align="center">
