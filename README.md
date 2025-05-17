@@ -5,7 +5,10 @@
 </p> 
 
 <div align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="400" />
+  <div style="display: flex; justify-content: flex-end; gap: 15px;">
+    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRmNmo5YWtzcDY2dmdqN3Ewa200Y2Y0ZTR5amI5MnRmbTRqNzcyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="Data Science GIF" width="180" />
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="300" />
+  </div>
 
   <div align="left">
     <ul style="list-style: none; padding-left: 0; margin-top: 0;">
