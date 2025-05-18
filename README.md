@@ -58,8 +58,12 @@
   <br>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="readme stats" />
-  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=karanjangid8656&show_icons=true&locale=en&layout=compact&theme=dark" alt="karanjangid8656" />
+  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="readme stats" />
+  <img width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="top languages" />
+</p>
+
+<p align="center">
+  <img width="450" src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
