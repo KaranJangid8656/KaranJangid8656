@@ -53,7 +53,7 @@
     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50"/> 
   </a>
 </div>
-<br/>
+<br/> 
     <h3 align="center"> CURRENT STATS 💻</h3>
   <br>
 
