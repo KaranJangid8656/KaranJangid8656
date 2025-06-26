@@ -1,4 +1,4 @@
-<h1 align="center"> Hey ,I'm Karan Suthar</h1> 
+<h1 align="center"> Hey, I'm Karan Suthar</h1> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=MAKING+DATA+WORK+SMARTER" alt="Typing SVG" />
 </p> 
@@ -13,53 +13,54 @@
 
 <br clear="both">
 
- <h3 align="left">Languages and Tools: </h3>
+<h3 align="left">Languages and Tools: </h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 30px; padding: 10px;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener" style="margin: 10px;">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener" style="margin: 10px;">
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" alt="nodejs" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener" style="margin: 10px;"> 
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50"/> 
   </a>
 </div>
-<br/> 
-    <h3 align="center"> CURRENT STATS 💻</h3>
-  <br>
+
+<br/>
+<h3 align="center"> CURRENT STATS 💻</h3>
+<br>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="readme stats" />
-  <img width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="top languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -88,5 +89,3 @@
     <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-
-
