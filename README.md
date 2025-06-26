@@ -59,12 +59,7 @@
 <br>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="450" src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
