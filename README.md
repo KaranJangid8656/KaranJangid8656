@@ -57,6 +57,9 @@
 <br/>
 <h3 align="center"> CURRENT STATS 💻</h3>
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&hide_border=true" alt="Karan's GitHub Stats" />
+</p>
 
 <p align="center">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
@@ -65,6 +68,7 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" />
 </p>
+
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
