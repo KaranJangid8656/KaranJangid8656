@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools: </h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 30px; padding: 10px;">
-  <a href="https://www.cprogramming.com/" target="_blank">
+  <a href="https://res.cloudinary.com/dx9bvma03/image/upload/v1756024030/icons8-c-programming-48_ryru9f.png">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
