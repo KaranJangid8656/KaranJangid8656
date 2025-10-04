@@ -15,50 +15,79 @@
 <br/>
 <br/>
 
-<!-- 🧰 Tools & Technologies -->
-<h2 align="left">⚙️ Tools & Technologies</h2>
+<!-- 🧰 Tools & Technologies + 🏆 Achievements side by side -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; align-items: flex-start;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <!-- 🧰 Tools & Technologies -->
+  <div style="flex: 1 1 600px;">
+    <h2 align="left">⚙️ Tools & Technologies</h2>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
-  <!-- Frontend -->
-  <div style="flex: 1 1 400px; text-align: center;">
-    <h3></h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-      <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593077/Tailwind_CSS_ulh9aq.png" width="45" height="45" alt="TailwindCSS"/>
-      <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593475/Material_UI_ozrck9.png" width="45" height="45" alt="Bootstrap"/>
-    </div>
+    
+<div style="flex: 1 1 260px; text-align: center;">
+  <h3></h3> <!-- Add this -->
+  <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593077/Tailwind_CSS_ulh9aq.png" width="45" height="45" alt="TailwindCSS"/>
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593475/Material_UI_ozrck9.png" width="45" height="45" alt="Bootstrap"/>
+  </div>
+</div>
+
+<!-- Backend & Databases -->
+<div style="flex: 1 1 260px; text-align: center;">
+  <h3></h3> <!-- Add this -->
+  <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="MySQL"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="MongoDB"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="vscode"/>
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593534/nodejs_bb1yka.png" width="48" height="48" alt="nodejs"/>
+  </div>
+</div>
+
+<!-- AI / ML -->
+<div style="flex: 1 1 260px; text-align: center;">
+  <h3></h3> <!-- Add this -->
+  <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593674/opencv_logo_icon_170887_qniyu7.png" width="45" height="45" alt="OpenCV"/>
+  </div>
+</div>
+
+    
   </div>
 
-  <!-- Backend & Databases -->
-  <div style="flex: 1 1 400px; text-align: center;">
-    <h3></h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="MySQL"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="MongoDB"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="vscode"/>
-      <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593534/nodejs_bb1yka.png" width="48" height="48" alt="nodejs"/>
+  <!-- 🏆 Achievements -->
+  <div style="flex: 1 1 400px;">
+    <h2 align="left"> Achievements</h2>
+    <div align="center" style="
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 2rem;
+      justify-items: center;
+      margin: 1rem 0;
+    ">
+      <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590527/yolo-default-be0bbff04951_aimwow.png" alt="YOLO Achievement" width="120" />
+      </a>
+      <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590531/pull-shark-default-498c279a747d_njfojh.png" alt="Pull Shark Achievement" width="120" />
+      </a>
+      <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590537/quickdraw-default--light-8f798b35341a_ji1xux.png" alt="Quickdraw Achievement" width="120" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759594383/lg2550_qkux9f.png" alt="New Achievement" width="120" />
+      </a>
     </div>
   </div>
-
-  <!-- AI / ML -->
-  <div style="flex: 1 1 400px; text-align: center;">
-    <h3></h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-      <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759593674/opencv_logo_icon_170887_qniyu7.png" width="45" height="45" alt="Pandas"/>
-    </div>
-  </div>
-
-
 </div>
 
 <br/>
@@ -73,19 +102,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" />
 </p>
-
-### 🏆 GitHub Achievements
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0;">
-  <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590527/yolo-default-be0bbff04951_aimwow.png" alt="YOLO Achievement" width="200" />
-  </a>
-  <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590531/pull-shark-default-498c279a747d_njfojh.png" alt="Pull Shark Achievement" width="200" />
-  </a>
-  <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590537/quickdraw-default--light-8f798b35341a_ji1xux.png" alt="Quickdraw Achievement" width="200" />
-  </a>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
