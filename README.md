@@ -1,58 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karan Suthar - Portfolio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            color: #24292e;
-        }
-        h1, h2, h3 {
-            color: #0366d6;
-            margin: 1rem 0;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-            transition: all 0.3s ease;
-        }
-        a:hover {
-            color: #1a73e8;
-            transform: translateY(-2px);
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1 style="text-align: center; font-size: 2.5rem; margin-top: 2rem;">Hey, I'm <span style="color: #64ffda;">Karan Suthar</span></h1>
-        <p align="center">
+<h1 align="center">Hey, I'm Karan Suthar</h1>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=d1ff33&center=true&vCenter=true&width=435&lines=MAKING+DATA+WORK+SMARTER" alt="Typing SVG" />
 </p> 
-
 <div align="center">
   <div style="display: flex; justify-content: space-between; gap: 15px;">
     <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRmNmo5YWtzcDY2dmdqN3Ewa200Y2Y0ZTR5amI5MnRmbTRqNzcyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="Data Science GIF" width="220" />
     <img src="https://media0.giphy.com/media/5EOYACH9SWWA45b4Bp/giphy.webp?cid=ecf05e471k26lj45liuyoud7otvhga4zqgaa7wtlr1aj73zn&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="AI GIF" width="220" />
     <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding GIF" width="220" />
-  </div>
 </div>
 
-<br clear="both">
-
 <h2>🛠️ Technologies & Tools</h2>
-
-### Programming Languages
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
