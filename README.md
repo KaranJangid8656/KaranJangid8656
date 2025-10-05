@@ -84,8 +84,9 @@
       </a>
       <a href="#" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759594383/lg2550_qkux9f.png" alt="New Achievement" width="150" />
-      </a>
-    </div>
+<img src="https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophy" style="max-width: 100%;" />
+
+    
   </div>
 </div>
 
@@ -94,8 +95,16 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=react&hide_border=true&hide_rank=true&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered" alt="Karan's GitHub Stats" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=react&hide_border=true" alt="Top Languages" style="max-width: 100%;" />
+ <img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=radical&hide_border=false&hide_rank=false&show=prs,issues,repositories&count_private=true&include_all_commits=true&cache_seconds=600" alt="Karan's GitHub Stats" style="max-width: 100%;" />
+ 
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&hide_border=false&langs_count=10&count_private=true" alt="Top Languages" style="max-width: 100%;" />
+
+
 </div>
 
 <p align="center">
