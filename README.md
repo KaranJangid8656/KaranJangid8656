@@ -74,6 +74,9 @@
       margin: 1rem 0;
     ">
       <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jpg" alt="YOLO Achievement" width="150" />
+      </a>
+      <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590527/yolo-default-be0bbff04951_aimwow.png" alt="YOLO Achievement" width="150" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
@@ -84,7 +87,7 @@
       </a>
       <a href="#" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759594383/lg2550_qkux9f.png" alt="New Achievement" width="150" />
-<img src="https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophy" style="max-width: 100%;" />
+<img src="https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophy" style="max-width: 100%;" />
 
     
   </div>
