@@ -6,15 +6,11 @@
   <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759762852/techy_gihowg.png" alt="Techy Banner" width="100%" style="max-width: 900px; border-radius: 10px;" />
 </p>
 
-
-<br/>
-<br/>
-
 ## Tools and Technologies
 <p align="left">
   <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759761771/skills_xx7j2l.gif" alt="Skills & Technologies" width="80"/ >
 </p>
-
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- Frontend -->
