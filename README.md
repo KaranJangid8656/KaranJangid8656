@@ -98,21 +98,26 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
- <img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=radical&hide_border=false&hide_rank=false&show=prs,issues,repositories&count_private=true&include_all_commits=true&cache_seconds=600" alt="Karan's GitHub Stats" style="max-width: 100%;" />
  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=radical&hide_border=false&hide_rank=false&show=prs,issues,repositories&count_private=true&include_all_commits=true&cache_seconds=600" alt="Karan's GitHub Stats" style="max-width: 100%;" />
 
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&hide_border=false&langs_count=10&count_private=true" alt="Top Languages" style="max-width: 100%;" />
-
-
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&hide_border=false&langs_count=10&count_private=true" alt="Top Languages" style="max-width: 100%;" />
 </div>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" />
-</p>
+<br>
+
+<!-- LeetCode & Total Contributions Side by Side -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="max-width: 100%;" />
+  
+  <!-- Total Contributions -->
+  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" style="max-width: 100%;" />
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
