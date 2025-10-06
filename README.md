@@ -108,14 +108,15 @@
 
 <br>
 
-<!-- LeetCode & Total Contributions Side by Side -->
+<!-- LeetCode & Total Contributions (Smaller Size) -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="max-width: 100%;" />
-  
+  <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" width="400" />
+
   <!-- Total Contributions -->
-  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" style="max-width: 100%;" />
+  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" width="350" />
 </div>
+
 
 
 
