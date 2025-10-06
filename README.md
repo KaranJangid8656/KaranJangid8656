@@ -73,7 +73,7 @@
       justify-items: center;
       margin: 1rem 0;
     ">
-      <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
+      <a href="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jp" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jpg" alt="YOLO Achievement" width="150" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
