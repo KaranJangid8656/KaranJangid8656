@@ -83,8 +83,11 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=radical&hide_border=false&hide_rank=false&show=prs,issues,repositories&count_private=true&include_all_commits=true&cache_seconds=600" alt="Karan's GitHub Stats" style="max-width: 100%;" />
+ <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=radical" />
+
+
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&hide_border=false&langs_count=10&count_private=true" alt="Top Languages" style="max-width: 100%;" />
