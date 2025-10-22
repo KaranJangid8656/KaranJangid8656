@@ -58,13 +58,13 @@
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761052799/lvl5-alien_foe3cb.webp" alt="YOLO Achievement" width="125" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590527/yolo-default-be0bbff04951_aimwow.png" alt="YOLO Achievement" width="125" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761124228/holopin_ugxyss.jpg" alt="YOLO Achievement" width="125" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590531/pull-shark-default-498c279a747d_njfojh.png" alt="Pull Shark Achievement" width="125" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590531/pull-shark-default-498c279a747d_njfojh.png" alt="Pull Shark Achievement" width="135" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590537/quickdraw-default--light-8f798b35341a_ji1xux.png" alt="Quickdraw Achievement" width="125" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761124449/dino_xsvajx.png" alt="Quickdraw Achievement" width="140" />
       </a>
       <a href="#" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759594383/lg2550_qkux9f.png" alt="New Achievement" width="125" />
