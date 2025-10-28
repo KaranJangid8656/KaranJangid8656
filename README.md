@@ -58,7 +58,7 @@
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761052799/lvl5-alien_foe3cb.webp" alt="YOLO Achievement" width="125" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761124228/holopin_ugxyss.jpg" alt="YOLO Achievement" width="125" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761674171/hacku_gq16iq.webp" alt="YOLO Achievement" width="125" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590531/pull-shark-default-498c279a747d_njfojh.png" alt="Pull Shark Achievement" width="135" />
