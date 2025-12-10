@@ -71,7 +71,7 @@
         <br>
        
         
-<img src="https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophy" style="max-width: 100%;" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&no-frame=true&no-bg=true)
 
     
   </div>
