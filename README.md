@@ -79,20 +79,15 @@
 </div>
 
 <br/>
-<h3 align="center">CURRENT STATS </h3>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJangid8656&theme=dark" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranJangid8656&theme=github_dark" width="820"/>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
- 
-
-
+<h3 align="center">CURRENT STATS</h3>
 <br>
 
-<!-- LeetCode & Total Contributions (Smaller Size) -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" alt="LeetCode Stats" width="400" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJangid8656&theme=dark" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" width="400"/>
+</div>
+
+
 
   <!-- Total Contributions -->
 </div>
@@ -116,3 +111,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:203a43&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10"/>
+</p>
+
