@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Karan Suthar</h1>
 
 
-
+ 
 <p align="center">
   <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759762852/techy_gihowg.png" alt="Techy Banner" width="100%" style="max-width: 900px; border-radius: 10px;" />
 </p>
