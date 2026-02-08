@@ -103,7 +103,7 @@
   <a href="https://linkedin.com/in/karansuthar9565" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/karan_jangid98" target="_blank">
+  <a href="https://instagram.com/karan__jangid__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/karan_suthar8656" target="_blank">
