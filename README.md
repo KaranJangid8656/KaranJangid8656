@@ -71,7 +71,6 @@
         <br>
        
         
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&row=1&column=6)
 
     
   </div>
@@ -83,15 +82,7 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
  
- <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=KaranJangid8656&show_icons=true&theme=radical" />
 
-
-
-
-  <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&langs_count=8" />
-</div>
 
 <br>
 
