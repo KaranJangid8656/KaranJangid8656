@@ -29,6 +29,8 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=for-the-badge"/>
+
 
   <!-- AI / ML / Data -->
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -79,7 +81,8 @@
 <br/>
 <h3 align="center">CURRENT STATS </h3>
 <br>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJangid8656&theme=dark" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranJangid8656&theme=github_dark" width="820"/>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
  
 
