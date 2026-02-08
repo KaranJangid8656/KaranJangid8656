@@ -71,7 +71,7 @@
         <br>
        
         
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&no-frame=true&no-bg=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KaranJangid8656&theme=radical&row=1&column=6)
 
     
   </div>
@@ -90,7 +90,7 @@
 
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&hide_border=false&langs_count=10&count_private=true" alt="Top Languages" style="max-width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJangid8656&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <br>
