@@ -63,7 +63,7 @@
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761674171/hacku_gq16iq.webp" alt="YOLO Achievement" width="125" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759590531/pull-shark-default-498c279a747d_njfojh.png" alt="Pull Shark Achievement" width="135" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774511781/50_a0v5wx.gif" alt="Pull Shark Achievement" width="135" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" alt="Quickdraw Achievement" width="140" />
