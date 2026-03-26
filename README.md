@@ -63,13 +63,13 @@
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761674171/hacku_gq16iq.webp" alt="YOLO Achievement" width="125" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774511781/50_a0v5wx.gif" alt="Pull Shark Achievement" width="135" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512093/50_1080_1080_j6cs5n.png" alt="50 Days 2026" width="135" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" alt="Quickdraw Achievement" width="140" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512162/lg2550_zqmjmi.png" alt="Quickdraw Achievement" width="140" />
       </a>
       <a href="#" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759594383/lg2550_qkux9f.png" alt="New Achievement" width="125" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" alt="New Achievement" width="125" />
         <br>
        
         
