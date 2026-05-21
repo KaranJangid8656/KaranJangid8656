@@ -24,7 +24,7 @@
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512093/50_1080_1080_j6cs5n.png" alt="50 Days 2026" width="130" />
       </a>
       <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" alt="YOLO Achievement" width="125" />
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" alt="YOLO Achievement" width="120" />
       </a> 
       <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
         <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512162/lg2550_zqmjmi.png" alt="Quickdraw Achievement" width="130" />
