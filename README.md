@@ -6,34 +6,7 @@
   <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1759762852/techy_gihowg.png" alt="Techy Banner" width="100%" style="max-width: 900px; border-radius: 10px;" />
 </p>
 
-<!--  Achievements -->
-  <div style="flex: 1 1 400px;">
-    <h2 align="left"></h2>
-    <div align="center" style="
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 2rem;
-      justify-items: center;
-      margin: 1rem 0;
-    ">
-      <br>
-      <a href="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jp" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761052799/lvl5-alien_foe3cb.webp" alt="YOLO Achievement" width="125" />
-      </a>
-           <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512093/50_1080_1080_j6cs5n.png" alt="50 Days 2026" width="130" />
-      </a>
-      <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" alt="YOLO Achievement" width="120" />
-      </a> 
-      <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512162/lg2550_zqmjmi.png" alt="Quickdraw Achievement" width="130" />
-      </a>
-      <a href="#" target="_blank">
-        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" alt="New Achievement" width="125" />
-        <br> 
-  </div>
-</div>
+
        
 ## Tools and Technologies
 <p align="left">
@@ -70,6 +43,36 @@
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+</div>
+
+
+<!--  Achievements -->
+  <div style="flex: 1 1 400px;">
+    <h2 align="left"></h2>
+    <div align="center" style="
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 2rem;
+      justify-items: center;
+      margin: 1rem 0;
+    ">
+      <br>
+      <a href="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jp" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761052799/lvl5-alien_foe3cb.webp" alt="YOLO Achievement" width="125" />
+      </a>
+           <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512093/50_1080_1080_j6cs5n.png" alt="50 Days 2026" width="130" />
+      </a>
+      <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" alt="YOLO Achievement" width="120" />
+      </a> 
+      <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512162/lg2550_zqmjmi.png" alt="Quickdraw Achievement" width="130" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" alt="New Achievement" width="125" />
+        <br> 
+  </div>
 </div>
 
 <br>
