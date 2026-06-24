@@ -85,7 +85,7 @@
 
   
   <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" width="115" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" width="110" />
   </a>
 
   
