@@ -104,7 +104,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=dark" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=dark" alt="GitHub Streak" />
   <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" width="400"/>
 </div>
 
