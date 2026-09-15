@@ -137,7 +137,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:203a43&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6a00,50:ee0979,100:8e2de2&height=120&section=footer"/>
 </p>
 
 <p align="center">
