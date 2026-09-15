@@ -32,7 +32,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=for-the-badge"/>
+![Open Source](https://img.shields.io/badge/Open%20Source-333333?style=for-the-badge&logo=github&logoColor=white)
 
 
   <!-- AI / ML / Data -->
@@ -105,7 +105,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KaranJangid8656&theme=dark" alt="GitHub Streak" width="400" />
   <img src="https://leetcard.jacoblin.cool/Karan_Suthar8656?theme=dark&font=Baloo%202" width="400"/>
 </div>
 
