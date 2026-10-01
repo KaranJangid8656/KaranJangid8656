@@ -10,44 +10,44 @@
 
 <p align="center">
   <a href="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jp" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1782324619/holp_ivrrnn.webp" width="120" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1782324619/holp_ivrrnn.webp" width="110" />
   </a>
  
 <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1790868939/200_1080_1080_yyjibt.png" width="120" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1790868939/200_1080_1080_yyjibt.png" width="110" />
   </a>
  
   
 
   <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1782299970/Adobe_Express_-_file_ufu3re.png" width="120" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1782299970/Adobe_Express_-_file_ufu3re.png" width="110" />
   </a>
 
   <a href="https://github.com/KaranJangid8656?achievement=yolo&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" width="110" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1779388295/100-removebg-preview_ughjao.png" width="105" />
   </a>
 
  
 
   <a href="#" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1782324943/eyJidWNr_anosex.webp" width="120" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1782324943/eyJidWNr_anosex.webp" width="110" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://res.cloudinary.com/dx9bvma03/image/upload/v1759744405/WhatsApp_Image_2025-10-06_at_15.19.31_9d26dbc1_urjzz9.jp" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761052799/lvl5-alien_foe3cb.webp" width="115" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1761052799/lvl5-alien_foe3cb.webp" width="105" />
   </a>
 
    <a href="https://github.com/KaranJangid8656?achievement=quickdraw&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512162/lg2550_zqmjmi.png" width="115" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512162/lg2550_zqmjmi.png" width="105" />
   </a>
 
   
   
 
   <a href="https://github.com/KaranJangid8656?achievement=pull-shark&tab=achievements" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512093/50_1080_1080_j6cs5n.png" width="115" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1774512093/50_1080_1080_j6cs5n.png" width="105" />
   </a>
 
   
@@ -55,7 +55,7 @@
   
 
   <a href="#" target="_blank">
-    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" width="115" />
+    <img src="https://res.cloudinary.com/dx9bvma03/image/upload/v1773843198/m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I_f2ne5p.png" width="105" />
   </a>
 </p>
        
